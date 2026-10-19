@@ -1,0 +1,4 @@
+movement_id,entity_id,unit,amount,description
+receipt-001,WIDGET,each,5,synthetic movement
+shipment-001,WIDGET,each,-3,synthetic movement
+receipt-002,CABLE,meter,0.2,synthetic movement
