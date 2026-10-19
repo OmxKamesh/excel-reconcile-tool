@@ -58,4 +58,8 @@ This is an arithmetic reconciliation tool, not an audit or accounting certificat
 
 Reports contain supplied business identifiers and quantities. Keep real data and generated reports out of public repositories. All committed examples here are synthetic.
 
-License decision pending: no open-source license is granted by this repository. Public visibility does not itself grant redistribution rights.
+License: MIT, see [LICENSE](LICENSE).
+
+---
+
+Built by Kamesh Jindal at [OMX Digital](https://omxdigital.ai). Part of the [OMX Claude Skills toolkit](https://github.com/OmxKamesh/claude-skills-toolkit). Need this set up for your business? [kamesh@omxdigital.ai](mailto:kamesh@omxdigital.ai)
