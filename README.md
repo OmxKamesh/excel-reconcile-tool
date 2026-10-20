@@ -62,4 +62,4 @@ License: MIT, see [LICENSE](LICENSE).
 
 ---
 
-Built by Kamesh Jindal at [OMX Digital](https://omxdigital.ai). Part of the [OMX Claude Skills toolkit](https://github.com/OmxKamesh/claude-skills-toolkit). Need this set up for your business? [kamesh@omxdigital.ai](mailto:kamesh@omxdigital.ai)
+Built by Kamesh Jindal at [OMX Digital](https://omxdigital.ai). Part of the [OMX Claude Skills toolkit](https://github.com/OmxKamesh/claude-code-skills). Need this set up for your business? [kamesh@omxdigital.ai](mailto:kamesh@omxdigital.ai)
